@@ -1,6 +1,39 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
+Bin
 obj
 
 # mstest test results
 TestResults
+
+# Packages
+publish
+packages
+
+# Log files
+*.log
+
+
+# User files
+nkh.Load
+*.projdata
+*.pdb
+*.positions
+*.user
+*.local.config
+*.ncb
+*.suo
+*.plg
+*.opt
+*.ilk
+*.pch
+*.idb
+*.clw
+*.aps
+*.psess
+bin
+obj
+.DS_Store
+desktop.ini
+
+# Build files
+.version.properties
